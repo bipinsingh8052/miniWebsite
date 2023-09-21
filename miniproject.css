@@ -1,0 +1,42 @@
+#heading{
+    width: 500px;
+    height: 100px;
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+#nav{
+    width: 500px;
+    height: 50px;
+    background-color: chocolate;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+ table{
+    height: 500px;
+    width: 500px;
+    
+ }
+ .secondheading{
+    font-size: 30px;
+ }
+ .side{
+    display: flex ;
+    flex-direction: column;
+    align-content: space-between;
+ }
+ .secondtable{
+    background-color: blue;
+    color: white;
+    width: 200px;
+ }
+ .footer{
+    height: 50px;
+    width: 500px;
+    background-color: cadetblue;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+ }
